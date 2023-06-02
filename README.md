@@ -43,7 +43,6 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-
 <details>
   <summary>Client</summary>
   <ul>
