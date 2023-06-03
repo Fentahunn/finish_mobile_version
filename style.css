@@ -152,6 +152,7 @@ section,
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
+  margin-bottom: 40px;
 }
 
 .socials {
